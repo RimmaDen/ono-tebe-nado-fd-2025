@@ -98,10 +98,8 @@
   display: flex;
   align-items: center;
   position: relative;
-  padding-bottom: 50px;
+  padding: 0 50px 50px 50px;
   gap: 107px;
-  padding-right: 50px; 
-  padding-left: 50px; 
 }
 
 .cover__description-text {
@@ -185,7 +183,7 @@
 } 
 
 .card_type_picture {
-  background-image: url(../images/card-lot-03.jpg);  
+  background-image: url(../images/card-lot-03.jpg);
 }
 
 .card__title {
