@@ -1,3 +1,6 @@
+.content__theme {
+  background:#FFFFFF;
+}
 
 .header {
   display: grid;
@@ -67,7 +70,7 @@
   font-weight: 800;
   padding: 165px 50px 128px;
   color: white;
-  position: relative;  
+  position: relative;
 }
 
 .aligned-text {
@@ -272,7 +275,7 @@
   align-items: start;
   padding-left: 50px;
   padding-right: 50px;
-  margin-top: 180px;   
+  padding-top: 180px;   
 }
 
 .footer__address {
