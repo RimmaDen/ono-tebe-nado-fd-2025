@@ -64,7 +64,7 @@
 
 .cover__title {
   font-size: 100px;
-  line-height: 121%;
+  line-height: 115%;
   letter-spacing: 0.3em;
   text-transform: uppercase;
   font-weight: 800;
@@ -75,7 +75,6 @@
 
 .aligned-text {
   display: block;
-  letter-spacing: 30px;
   margin-bottom: 20px;
 }
 
@@ -86,11 +85,6 @@
 .aligned-text_right {
   text-align: right;
   margin-bottom: 0;
-
-}
-
-.letter-spacing-extended {
-  letter-spacing: 60px;
 }
 
 .no-letter-spacing {
